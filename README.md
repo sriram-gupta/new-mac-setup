@@ -5,3 +5,8 @@ steps to setup mac
 <h1>  install brew , iterm2 , oh-my-zsh </h1>
       install auto suggestion plugin , pk10 configure ( install powerlevel10k  <a> https://github.com/romkatv/powerlevel10k </a>  
 
+      brew install nvm 
+      nvm ls 
+      nvm install 14 
+      nvm alias default 14
+
