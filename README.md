@@ -10,3 +10,19 @@ steps to setup mac
       nvm install 14 
       nvm alias default 14
 
+      install docker 
+      install vscode extensions  [ bracket pair , jupyter notebook , docker , database-client plugin amazing  ]
+      redme me preview 
+
+      
+
+      <b>database-client plugin amazing  <b>
+
+
+
+      brew install python 
+      brew install pip
+      pip3 install numpy pandas
+
+
+
